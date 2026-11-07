@@ -21,26 +21,26 @@ It includes:
 - 🏗️ Projects
 - 📝 Daily Notes
 - 🧪 Practice Programs
--  # Database Fundamentals
--  # SQL Fundamentals
--  # ALTER TABLE
--  # DML
--  # DCL & SQL Commands
--  # Constraints
--  # Operators Part 1
--  # Operators Part 2 & Functions
--  # Aggregate Functions & Clauses
--  # Normalization & ER Model
--  # Numeric & String Functions
--  # Date & Time Functions
--  # Joins
--  # Advanced Joins & Queries
--  # SQL Subqueries
--  # Transactions & Views
--  # Stored Procedures
--  # Triggers
--  # Pharmacy Database Project
--  # Student Database Project
+-  Database Fundamentals
+-  SQL Fundamentals
+-  ALTER TABLE
+-  DML
+-  DCL & SQL Commands
+-  Constraints
+-  Operators Part 1
+-  Operators Part 2 & Functions
+-  Aggregate Functions & Clauses
+-  Normalization & ER Model
+-  Numeric & String Functions
+-  Date & Time Functions
+-  Joins
+-  Advanced Joins & Queries
+-  SQL Subqueries
+-  Transactions & Views
+-  Stored Procedures
+-  Triggers
+-  Pharmacy Database Project
+-  Student Database Project
 -  
 I am maintaining this repository to track my progress, strengthen my fundamentals, and build practical development skills through consistent coding.
 

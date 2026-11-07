@@ -1,10 +1,10 @@
-# 🚀 Python Full Stack – 100 Days
+# 🚀 SQL – 100 Days
 
-Welcome to my **100 Days of Python Full Stack Development** journey.
+Welcome to my **100 Days of SQL** journey.
 
-This repository documents my daily learning, practice, notes, SQL queries, database exercises, programming problems, and projects as I progress toward becoming a **Python Full Stack Developer**.
+This repository documents my daily learning, practice, notes, SQL queries, database exercises, problems, and projects as I progress toward becoming a pro in SQL**.
 
-> **Learn the concept → Write the code → Practise → Understand the logic → Explain the solution → Build real projects.**
+> **Learn the concept → Write the QUERIES → Practise → Understand the logic → Explain the solution → Build real projects.**
 
 ---
 
@@ -14,21 +14,34 @@ This repository contains the work I complete throughout my **100 Days of Full St
 
 It includes:
 
-- 🐍 Python Programming
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
 - 🗄️ SQL
 - 🐬 MySQL
-- 💻 Frontend Development
-- ⚙️ Backend Development
-- 🔌 APIs
 - 📊 Database Management
 - 🧩 Problem Solving
 - 🏗️ Projects
 - 📝 Daily Notes
 - 🧪 Practice Programs
-
+-  # Database Fundamentals
+-  # SQL Fundamentals
+-  # ALTER TABLE
+-  # DML
+-  # DCL & SQL Commands
+-  # Constraints
+-  # Operators Part 1
+-  # Operators Part 2 & Functions
+-  # Aggregate Functions & Clauses
+-  # Normalization & ER Model
+-  # Numeric & String Functions
+-  # Date & Time Functions
+-  # Joins
+-  # Advanced Joins & Queries
+-  # SQL Subqueries
+-  # Transactions & Views
+-  # Stored Procedures
+-  # Triggers
+-  # Pharmacy Database Project
+-  # Student Database Project
+-  
 I am maintaining this repository to track my progress, strengthen my fundamentals, and build practical development skills through consistent coding.
 
 ---

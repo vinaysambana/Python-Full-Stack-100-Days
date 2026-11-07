@@ -41,7 +41,7 @@ It includes:
 -  Triggers
 -  Pharmacy Database Project
 -  Student Database Project
--  
+  
 I am maintaining this repository to track my progress, strengthen my fundamentals, and build practical development skills through consistent coding.
 
 ---
